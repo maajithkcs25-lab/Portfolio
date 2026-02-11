@@ -1,0 +1,41 @@
+nav{
+    padding-left:1%;
+    font-family: serif;
+    padding-top: 1%;
+}
+
+
+li:hover{
+    color: rgb(236, 100, 206);
+    cursor: pointer; 
+}
+.hi{
+    text-align: center;
+    font-family: serif;
+    padding-top: 1%;
+
+}
+.content{
+    text-transform:capitalize;
+    line-height: 20px;
+}
+.about{
+    text-transform: capitalize;
+    line-height: 20px;
+}
+.skills,.achievements,.project{
+    border-radius: 15px;
+    border: 5px solid rgb(145, 143, 143);
+    color: rgb(251, 247, 247);
+    background-color: rgb(8, 8, 8);
+    padding: 15px;
+    margin: 10px;
+    width: 280px;
+    display: inline-block;
+    vertical-align: top;
+    height: 200px;
+    
+}
+.container{
+    padding-left: 15%;
+}
